@@ -1,0 +1,19 @@
+# Simple Interest Project
+
+## Project overview
+A small repository with a shell script `simple-interest.sh` that calculates Simple Interest.  
+This project is built to meet the final project submission requirements.
+
+## Files
+- `LICENSE` — Apache License 2.0
+- `README.md` — This file
+- `CODE_OF_CONDUCT.md` — Contributor guidelines
+- `CONTRIBUTING.md` — How to contribute
+- `simple-interest.sh` — Script to compute simple interest
+
+## How to run
+```bash
+git clone https://github.com/<your-username>/simple-interest-project.git
+cd simple-interest-project
+chmod +x simple-interest.sh
+./simple-interest.sh <principal> <rate_percent> <time_years>
